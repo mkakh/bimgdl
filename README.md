@@ -1,10 +1,11 @@
 # Bing画像検索から自動で画像を保存するスクリプト
+機械学習の学習データセットを画像検索結果から作成するために作ったスクリプトです．
 
-# Usage
+## Usage
 ```
 python bimgdl.py 検索語
 ```
-または，jupyter-notebookで開いて使う
+または，jupyter-notebookで開いて使ってください．
 
 # 参考URL
 
